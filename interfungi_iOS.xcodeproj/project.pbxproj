@@ -14,6 +14,17 @@
 		97718EBB284DF56E006C9056 /* interfungi_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718EBA284DF56E006C9056 /* interfungi_iOSTests.swift */; };
 		97718EC5284DF56E006C9056 /* interfungi_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718EC4284DF56E006C9056 /* interfungi_iOSUITests.swift */; };
 		97718EC7284DF56E006C9056 /* interfungi_iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718EC6284DF56E006C9056 /* interfungi_iOSUITestsLaunchTests.swift */; };
+		97718ED8284DF758006C9056 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718ED7284DF758006C9056 /* SplashView.swift */; };
+		97718EDA284DF798006C9056 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718ED9284DF798006C9056 /* LoginView.swift */; };
+		97718EDC284DF9B1006C9056 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718EDB284DF9B1006C9056 /* SignUpView.swift */; };
+		97718EDE284DFD67006C9056 /* Acme-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EDD284DFD67006C9056 /* Acme-Regular.ttf */; };
+		97718EE0284E036B006C9056 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EDF284E036B006C9056 /* Poppins-Regular.ttf */; };
+		97718EE4284E0417006C9056 /* Murecho-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EE1284E0417006C9056 /* Murecho-Bold.ttf */; };
+		97718EE5284E0417006C9056 /* Murecho-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EE2284E0417006C9056 /* Murecho-Light.ttf */; };
+		97718EE6284E0417006C9056 /* Murecho-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EE3284E0417006C9056 /* Murecho-Regular.ttf */; };
+		97718EE9284E0790006C9056 /* baloo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EE8284E0790006C9056 /* baloo.ttf */; };
+		97718EEB284E0875006C9056 /* antic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97718EEA284E0875006C9056 /* antic.ttf */; };
+		97718EED284E0E0B006C9056 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97718EEC284E0E0B006C9056 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,18 @@
 		97718EC0284DF56E006C9056 /* interfungi_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = interfungi_iOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97718EC4284DF56E006C9056 /* interfungi_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = interfungi_iOSUITests.swift; sourceTree = "<group>"; };
 		97718EC6284DF56E006C9056 /* interfungi_iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = interfungi_iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97718ED7284DF758006C9056 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		97718ED9284DF798006C9056 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		97718EDB284DF9B1006C9056 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		97718EDD284DFD67006C9056 /* Acme-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Acme-Regular.ttf"; sourceTree = "<group>"; };
+		97718EDF284E036B006C9056 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		97718EE1284E0417006C9056 /* Murecho-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Murecho-Bold.ttf"; sourceTree = "<group>"; };
+		97718EE2284E0417006C9056 /* Murecho-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Murecho-Light.ttf"; sourceTree = "<group>"; };
+		97718EE3284E0417006C9056 /* Murecho-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Murecho-Regular.ttf"; sourceTree = "<group>"; };
+		97718EE7284E046B006C9056 /* interfungi-iOS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "interfungi-iOS-Info.plist"; sourceTree = SOURCE_ROOT; };
+		97718EE8284E0790006C9056 /* baloo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = baloo.ttf; sourceTree = "<group>"; };
+		97718EEA284E0875006C9056 /* antic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = antic.ttf; sourceTree = "<group>"; };
+		97718EEC284E0E0B006C9056 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,9 +117,12 @@
 		97718EA8284DF56D006C9056 /* interfungi_iOS */ = {
 			isa = PBXGroup;
 			children = (
+				97718EE7284E046B006C9056 /* interfungi-iOS-Info.plist */,
+				97718ED3284DF59E006C9056 /* Views */,
 				97718EA9284DF56D006C9056 /* interfungi_iOSApp.swift */,
 				97718EAB284DF56D006C9056 /* ContentView.swift */,
 				97718EAD284DF56E006C9056 /* Assets.xcassets */,
+				97718ED4284DF5A5006C9056 /* Resources */,
 				97718EAF284DF56E006C9056 /* Preview Content */,
 			);
 			path = interfungi_iOS;
@@ -125,6 +151,31 @@
 				97718EC6284DF56E006C9056 /* interfungi_iOSUITestsLaunchTests.swift */,
 			);
 			path = interfungi_iOSUITests;
+			sourceTree = "<group>";
+		};
+		97718ED3284DF59E006C9056 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				97718ED7284DF758006C9056 /* SplashView.swift */,
+				97718ED9284DF798006C9056 /* LoginView.swift */,
+				97718EDB284DF9B1006C9056 /* SignUpView.swift */,
+				97718EEC284E0E0B006C9056 /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		97718ED4284DF5A5006C9056 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				97718EEA284E0875006C9056 /* antic.ttf */,
+				97718EE8284E0790006C9056 /* baloo.ttf */,
+				97718EE1284E0417006C9056 /* Murecho-Bold.ttf */,
+				97718EE2284E0417006C9056 /* Murecho-Light.ttf */,
+				97718EE3284E0417006C9056 /* Murecho-Regular.ttf */,
+				97718EDF284E036B006C9056 /* Poppins-Regular.ttf */,
+				97718EDD284DFD67006C9056 /* Acme-Regular.ttf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,7 +283,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				97718EB1284DF56E006C9056 /* Preview Assets.xcassets in Resources */,
+				97718EE6284E0417006C9056 /* Murecho-Regular.ttf in Resources */,
+				97718EEB284E0875006C9056 /* antic.ttf in Resources */,
+				97718EE9284E0790006C9056 /* baloo.ttf in Resources */,
+				97718EDE284DFD67006C9056 /* Acme-Regular.ttf in Resources */,
 				97718EAE284DF56E006C9056 /* Assets.xcassets in Resources */,
+				97718EE5284E0417006C9056 /* Murecho-Light.ttf in Resources */,
+				97718EE4284E0417006C9056 /* Murecho-Bold.ttf in Resources */,
+				97718EE0284E036B006C9056 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +316,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				97718EAC284DF56D006C9056 /* ContentView.swift in Sources */,
+				97718EED284E0E0B006C9056 /* MainView.swift in Sources */,
+				97718EDC284DF9B1006C9056 /* SignUpView.swift in Sources */,
 				97718EAA284DF56D006C9056 /* interfungi_iOSApp.swift in Sources */,
+				97718EDA284DF798006C9056 /* LoginView.swift in Sources */,
+				97718ED8284DF758006C9056 /* SplashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +482,7 @@
 				DEVELOPMENT_TEAM = 4XAVYDR7T4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "interfungi-iOS-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +512,7 @@
 				DEVELOPMENT_TEAM = 4XAVYDR7T4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "interfungi-iOS-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
